@@ -5,7 +5,7 @@
 
 - 60W TRX:
 
-[<img src="60W FM PA RA60H1317M1A/Eagle Files/60W_FM_PA_Pics/60W_FM_PA_3D.png" width="600"/>](60W FM PA RA60H1317M1A/Eagle Files/60W_FM_PA_Pics/60W_FM_PA_3D.png)
+<img src="60W FM PA RA60H1317M1A/Eagle Files/60W_FM_PA_Pics/60W_FM_PA_3D.png" width="600"/>
 
 **Figure 1**: 3D View of RA60H1317M1A PCB 
 
